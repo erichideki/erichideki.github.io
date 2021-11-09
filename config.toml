@@ -1,5 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://erichideki.github.io/'
 languageCode = 'en-us'
 title = 'Eric Hideki'
-description = 'test'
-theme = "harbor"
+theme = "mini"
